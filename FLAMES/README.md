@@ -4,3 +4,5 @@
 
 
 Flames is a browser based password extractor which works on Chrome by [Devisha Rochlani](https://twitter.com/DevishaRochlani)
+
+[Proof Of Concept : ](https://github.com/AXI4L/Community-Papers/blob/master/FLAMES/MultiStaged_Malware_POC.pdf)
