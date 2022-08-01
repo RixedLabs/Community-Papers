@@ -14,5 +14,6 @@ will be added with full credits, at the community papers archive. Thank you for 
 * ![IDontCode](https://twitter.com/_xeroxz )
 * S.Patil
 * ![Interpolice // 0xastr0](https://discord.gg/CBRTkh5MFB )
+* ![Ferib Hellscream](https://twitter.com/FeribHellscream )
 
 Thank you to all the authors for the contribution. 
